@@ -1,0 +1,15 @@
+body, html{
+    padding: 5rem;
+    font-size: 1rem;
+    background-color: #21232A;
+    font-family: Helvetica, sans-serif;
+    color: #fff;
+}
+
+div{
+    display: flex;
+}
+button{
+    margin: 10px;
+    font-size: 20px;
+}

@@ -1,0 +1,49 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en Counterapp  debe de mostrar CounterApp correctamente 1`] = `
+<Fragment>
+  <button
+    onClick={[Function]}
+  >
+    -
+  </button>
+  <h2>
+    10
+  </h2>
+  <button
+    onClick={[Function]}
+  >
+    +
+  </button>
+  <button
+    onClick={[Function]}
+  >
+    RESET
+  </button>
+</Fragment>
+`;
+
+exports[`Pruebas en Counterapp  debe de mostrar CounterApp correctamente 2`] = `
+<Fragment>
+  <button
+    onClick={[Function]}
+  >
+    -
+  </button>
+  <h2>
+    10
+  </h2>
+  <button
+    onClick={[Function]}
+  >
+    +
+  </button>
+  <button
+    onClick={[Function]}
+  >
+    RESET
+  </button>
+</Fragment>
+`;
+
+exports[`Pruebas en Counterapp  debe de mostrar el valor por defecto de 100 1`] = `[Function]`;
